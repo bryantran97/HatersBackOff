@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IRCBot
 Bot that connects to an IRC and utilizes simple APIs from Twitter and OpenWeatherMap
 
@@ -9,3 +10,8 @@ For the hackathon, the objective was to help decrease online harassment. So this
 
 //
 Version 1.0.1
+=======
+# HatersBackOff
+Internet Relay Chat Bot which detects foul language and informs users of cyber bullying.
+BOT also has exact functions from previous IRC BOT, which is to take in trending items in twitter (Twitter API) and weather of certain cities (OpenWeatherMap API).
+>>>>>>> 8cb2911d213c81c1f9148a776c59da076a2b4073
